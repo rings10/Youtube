@@ -11,9 +11,9 @@ from oauth2client.tools import argparser, run_flow
 
 # ======== Configure the following variables ===========
 #uploads id
-cid="UCIRsedcxeAHFsGJdu7jOUVg"
+cid="UU-lHJZR3Gqxm24_Vd_AJ5Yw"
 #last video id wMuYiLby3-s
-lastvid="9opPV196tjE"
+lastvid="-73iXbNNZ6o"
 # waiting time intervel in seconds
 intervel=25
 #comment you need to post
